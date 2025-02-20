@@ -1,6 +1,6 @@
 # TransactionAnalysis
 ## Description
-I developed this transaction analysis system for a legacy system.
+I developed this transaction analysis system for a internet banking legacy system.
 
 At the moment, this is just a backup repository for my code, so it is not executable. I believe it is possible to transform it into a microservice.
 
