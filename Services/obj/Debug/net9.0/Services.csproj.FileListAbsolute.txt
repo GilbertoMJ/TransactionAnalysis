@@ -1,0 +1,5 @@
+C:\_P\c#\Transaction-Analysis\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\_P\c#\Transaction-Analysis\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\_P\c#\Transaction-Analysis\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\_P\c#\Transaction-Analysis\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\_P\c#\Transaction-Analysis\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache

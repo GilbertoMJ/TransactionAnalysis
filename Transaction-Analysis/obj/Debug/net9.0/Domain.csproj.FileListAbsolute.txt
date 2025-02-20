@@ -1,0 +1,11 @@
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\bin\Debug\net9.0\Domain.deps.json
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\bin\Debug\net9.0\Domain.dll
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\bin\Debug\net9.0\Domain.pdb
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\Domain.dll
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\refint\Domain.dll
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\Domain.pdb
+C:\_P\c#\Transaction-Analysis\Transaction-Analysis\obj\Debug\net9.0\ref\Domain.dll
